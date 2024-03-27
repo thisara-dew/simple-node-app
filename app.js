@@ -12,6 +12,7 @@ app.get('/', (request, response) => {
             <h1>
                 Hello 👋 from Dew
             </h1>
+            <p>Why did the programmer quit his job? Because he didn't get arrays!</p>
         </center>
     `);
 });

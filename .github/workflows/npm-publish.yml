@@ -1,4 +1,4 @@
-name: imple-node-app CI/CD
+name: simple-node-app CI/CD
 
 on:
   push:
